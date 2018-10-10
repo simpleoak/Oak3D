@@ -12,9 +12,8 @@ For a better experience while using our Service, we may require you to provide u
 
 The app does use third party services that may collect information used to identify you. 
 Link to privacy policy of third party service providers used by the app 
-•	Google Play Services
-•	AdMob
-•	Firebase
+•	Amazon Web Services
+•	Amazon Mobile Ads
  
 # Log Data
 
